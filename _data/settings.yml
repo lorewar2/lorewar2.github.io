@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Minindu Weerakoon
+title: MW
 logo: '/images/logo.png'
 description: Minindu Weerakoon's personal website.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -32,7 +32,7 @@ menu__settings:
 author:
   author__name: Minindu Weerakoon
   author__bio: :D
-  author__avatar: '/images/profile.png'
+  author__avatar: '/images/profile.jpg'
 
 social:
 - {icon: "ion-logo-chrome", link: "https://www.minindu.com"}
@@ -54,7 +54,7 @@ hero:
     - BSc in Aerospace engineering and computer science at PNU 2016 ~ 2020
     - KGSP scholarship recepient
     
-  hero__image: '/images/profile.png'
+  hero__image: '/images/profile.jpg'
 
 
 #-------------------------------
