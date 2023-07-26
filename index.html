@@ -1,65 +1,30 @@
-﻿
-<html>
+---
+layout: default
+logo: '/images/Logo.png'
+title: Praveen Venkatesh
+tagline: Praveen's personal website
+author:
+    name: Praveen Venkatesh
+carousels:
+  - images: 
+    - image: ../images/medals_1.JPG
+      desc: Convocation | Receiving medals from Dr. Krishnaswamy VijayRaghavan
+    - image: ../images/deanslist.jpg
+      desc: Receiving Dean's List from Prof Atul
+    - image: ../images/aml_2.jpg
+      desc: With "Moon man" Dr J.N. Goswami @ Amalthea '18
+    - image: ../images/iitroorkee.jpg
+      desc: Inter IIT Bhubaneswar vs IIT Roorkee team
+    - image: ../images/invent.jpg
+      desc: Invent@IITGN 2019
+    - image: ../images/latex.jpg
+      desc: Team LaTeX 2018
+---
 
-	<head>
+{% include section-hero.html %}
 
-		<link rel="stylesheet" href = "assets/css/main-css.css">
-		<link rel="icon" href = "assets/images/f.jpg">
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<meta charset="UTF-8">
-		<meta name="description" content="Github io page Of Minindu Weerakoon">
-		<meta name="keywords" content="JavaScript, HTML, C++, PHP, Aeroproject, Minindu, Weerakoon">
-		<meta name="author" content="Minindu Weerakoon">
-		<title>Minindu Weerakoon</title>
+{% include section-about.html %}
 
-	<script type = "text/javascript">
+{% include section-projects.html %}
 
-	</script>
-	</head>
-
-	<body>
-		
-		<div class = "header" id = "header">
-
-			<div class="container_12">
-			
-				<img src="assets/images/logo.png" id = "logo" alt="" width="10%" height="10%" />
-			
-			</div>
-		
-		</div>
-
-		<div class = "topnav" id = "topnav">
-			
-			<a id = "active" class="active">About</a>
-			
-		</div>  
-	
-		<div class="jumbotron" style="padding-top: 10px;">
-
-
-		</div>
-
-
-		<div id = "dynamic">
-			<img id = "profile" src = assets/images/profilepic.jpg style="width: 30%;">
-            <p><a href="http://minindu.com/" target="_blank">Website</a></p>
-            <p><a href="https://github.com/lorewar2" target="_blank">Github</a></p>
-            <p><a href="https://www.youtube.com/@mininduweerakoon" target="_blank">Youtube</a></p>
-		</div>
-		
-		
-	<div class="footer clearfix">
-
-		<div class="container_12">
-		
-			<p class="grid_12"><a href="#">Legal Information</a> | <a href="#">PrivacyPolicy</a> | <a href="#">Copyright &copy; MININDU WEERAKOON 2023&nbsp</a></p>
-			
-		</div>
-		
-	</div>	
-
-
-	</body>
-
-</html>
+<!-- {% include section-blog.html %} -->
