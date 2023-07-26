@@ -2,7 +2,7 @@
 title: squatAX
 subtitle: squat posture analyzer
 contributors: Minindu Weerakoon, Elona Ibrahim
-date: 2019-12
+date: 2019-12-10
 image: '../images/ax.png'
 carousels: 
   - images: 
