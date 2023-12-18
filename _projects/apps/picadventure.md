@@ -7,7 +7,7 @@ image: '../images/android.png'
 carousels: 
   - images: 
     - image: '../images/android.png'
-      desc:Home screen
+      desc: Home screen
 order: -60
 ---
 
