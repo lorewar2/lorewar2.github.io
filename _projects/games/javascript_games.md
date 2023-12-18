@@ -43,4 +43,6 @@ Simple games made in java script, I was bored.
 
 - https://github.com/lorewar2/web-games
 
+- https://www.youtube.com/channel/UC5f0QvbqqhqY3D0iJ9Yd_DQ/videos
+
 
