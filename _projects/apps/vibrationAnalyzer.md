@@ -3,13 +3,11 @@ title: VibrationAnalyzer
 subtitle: Senses vibrations and outputs result
 contributors: Minindu Weerakoon
 date: 2022-11-05
-image: '../images/ax.png'
+image: '../images/vibration.png'
 carousels: 
   - images: 
-    - image: '../images/ax.png'
+    - image: '../images/vibration.png'
       desc: test!
-    - image: '../images/ax.png'
-      desc: Lot of awesome new features.
 order: -60
 ---
 

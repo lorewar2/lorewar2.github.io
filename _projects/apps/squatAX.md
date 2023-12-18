@@ -7,8 +7,6 @@ image: '../images/ax.png'
 carousels: 
   - images: 
     - image: '../images/ax.png'
-      desc: test!
-    - image: '../images/ax.png'
       desc: Lot of awesome new features.
 order: -60
 ---
