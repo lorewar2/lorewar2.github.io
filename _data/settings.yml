@@ -51,7 +51,7 @@ hero:
   hero__description_points:
     - Graduate student at Auburn university 2022 ~
     - MSc in Computer science at UNIST 2021 ~ 2022
-    - BSc in Aerospace engineering and computer science at PNU 2016 ~ 2020
+    - BSc in Computer science at PNU 2016 ~ 2020
     - KGSP scholarship recepient
     
   hero__image: '/images/profile.jpg'
