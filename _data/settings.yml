@@ -81,7 +81,7 @@ mailchimp__button__text: Get updates
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: My Works
+  projects__title: My Projects
   projects__description: Things I have done in the past
 
 
