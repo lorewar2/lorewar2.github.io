@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/lab.png'
       desc: Lot of awesome new features.
-order: 13
+order: 6
 ---
 
 Using CFDwarp simulation program, a reentry capsule is simulated at mach 11 and mach 24.

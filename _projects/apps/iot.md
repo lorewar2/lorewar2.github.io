@@ -3,7 +3,7 @@ title: IoT based Dam Management System
 subtitle: IoT based Dam Management System
 contributors: Minindu Weerakoon
 date: 2020-12-10
-image: '../images/DAMpic.png'
+image: '../images/iot.gif'
 carousels: 
   - images: 
     - image: '../images/DAMpic.png'

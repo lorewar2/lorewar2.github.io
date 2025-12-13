@@ -3,11 +3,13 @@ title: VibrationAnalyzer
 subtitle: Senses vibrations and outputs result
 contributors: Minindu Weerakoon
 date: 2022-11-05
-image: '../images/vibration.png'
+image: '../images/wave.gif'
 carousels: 
-  - images: 
+  - images:
+    - image: '../images/wave.gif'
+      desc: Wave detector
     - image: '../images/vibration.png'
-      desc: test!
+      desc: app image
 order: 10
 ---
 

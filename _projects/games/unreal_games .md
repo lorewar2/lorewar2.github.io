@@ -3,7 +3,7 @@ title: C# Unreal Games
 subtitle: 5 small games made in unreal engine
 contributors: Minindu Weerakoon
 date: 2023-12-10
-image: '../images/spacewar.png'
+image: '../images/unreal.gif'
 carousels: 
   - images: 
     - image: '../images/wadewar.jpg'

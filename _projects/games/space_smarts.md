@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/space_smarts.gif'
       desc: Demo
-order: 10
+order: 100
 ---
 
 Educational game where chatgpt asks random question based on the selection. Board space war educational game.

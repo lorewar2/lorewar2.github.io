@@ -3,7 +3,7 @@ title: WoodWar (Unreal Game)
 subtitle: farming simulator
 contributors: Minindu Weerakoon
 date: 2021-12-10
-image: '../images/woodwar.png'
+image: '../images/woodwar.gif'
 carousels: 
   - images: 
     - image: '../images/woodwar_a.png'

@@ -30,6 +30,7 @@ BMC Bioinformatics: SMILES alignment: a dynamic programming approach for the ali
 ## Library Contribution
 
 Partial Order Alignment Code in Rust-bio (https://github.com/rust-bio/rust-bio/blob/master/src/alignment/poa.rs)
+Memory Sanitization of CFDWARP (https://github.com/bernardparent/CFDWARP)
 
 ### Patents
 

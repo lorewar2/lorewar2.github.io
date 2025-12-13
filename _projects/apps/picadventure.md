@@ -3,7 +3,7 @@ title: PicAdventure
 subtitle: grad project
 contributors: Minindu Weerakoon
 date: 2018-12-10
-image: '../images/android.png'
+image: '../images/pic.gif'
 carousels: 
   - images: 
     - image: '../images/android.png'
