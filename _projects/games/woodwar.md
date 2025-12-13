@@ -1,5 +1,5 @@
 ---
-title: WoodWar
+title: WoodWar (Unreal Game)
 subtitle: farming simulator
 contributors: Minindu Weerakoon
 date: 2021-12-10
@@ -14,7 +14,7 @@ carousels:
       desc: sword fights
     - image: '../images/woodwar_d.png'
       desc: driving bus?
-order: -60
+order: 98
 ---
 
 Wood war is a farming simualator where you are free to do anything, especially farming.
