@@ -3,7 +3,7 @@ title: Javascript Programmed Games
 subtitle: 14 games made in javascript
 contributors: Minindu Weerakoon
 date: 2019-12-10
-image: '../images/snake.png'
+image: '../images/java_games.gif'
 carousels: 
   - images: 
     - image: '../images/Games1.jpg'
@@ -34,7 +34,7 @@ carousels:
       desc: Ping clone
     - image: '../images/Games14.jpg'
       desc: Pinball game
-order: 100
+order: 0
 ---
 
 Simple games made in java script, I was bored.

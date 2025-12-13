@@ -16,7 +16,9 @@ carousels:
       desc: Snake clone
     - image: '../images/tankwar.png'
       desc: 3d Battle tank clone
-order: 99
+    - image: '../images/wadewar.jpg'
+      desc: In progress shop simulator
+order: 1
 ---
 
 Games made in unreal engine, for fun.

@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/ax.png'
       desc: Lot of awesome new features.
-order: -60
+order: 11
 ---
 
 SQUAT APPLICATION DEVELOPMENT USING OPENPOSE: BY TEAM AX

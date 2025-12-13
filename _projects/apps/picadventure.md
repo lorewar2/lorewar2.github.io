@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/android.png'
       desc: Home screen
-order: -60
+order: 5
 ---
 
 Project for Android computer lab. This project is an android application that lets you take photos and upload them to a database where you can view, rate, and comment on each other's photos, Also it has a map functionality where you can search for pictures in a specified area.

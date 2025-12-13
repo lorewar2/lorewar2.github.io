@@ -13,8 +13,8 @@ carousels:
     - image: '../images/woodwar_c.png'
       desc: sword fights
     - image: '../images/woodwar_d.png'
-      desc: driving bus?
-order: 98
+      desc: driving bus
+order: 2
 ---
 
 Wood war is a farming simualator where you are free to do anything, especially farming.

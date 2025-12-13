@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/DAMpic.png'
       desc: Setup
-order: -60
+order: 7
 ---
 
 Project for IoT module of SLIIT, which solves the problems of manual dam management. Uses arduino UNO, raspberry pi 3B, and other modules to implement a functional automatic dam management system.

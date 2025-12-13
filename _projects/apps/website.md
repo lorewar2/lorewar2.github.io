@@ -12,7 +12,7 @@ carousels:
       desc: Projects
     - image: '../images/old_website3.png'
       desc: Games
-order: -60
+order: -1
 ---
 
 Made in 2020 to publish my projects,

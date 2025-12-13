@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/dynamic.png'
       desc: Foil diagram
-order: -60
+order: 8
 ---
 
 Using mathlab, non-lifting flow over NACA 0012 is simulated using source panel method. 

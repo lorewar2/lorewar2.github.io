@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/app.png'
       desc: apps for work.
-order: -60
+order: 6
 ---
 
 Applications made for company pervasive ltd while interning.

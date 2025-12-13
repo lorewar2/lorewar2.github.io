@@ -8,7 +8,7 @@ carousels:
   - images: 
     - image: '../images/vibration.png'
       desc: test!
-order: -60
+order: 10
 ---
 
 This android application is used to detect the vibrations in real time and output it on screen, (vibration is represesnted in accerleration), It can also send a email of the resulting data.

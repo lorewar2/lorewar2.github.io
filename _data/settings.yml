@@ -35,7 +35,6 @@ author:
   author__avatar: '/images/profile.jpg'
 
 social:
-- {icon: "ion-logo-chrome", link: "https://www.minindu.com"}
 - {icon: "ion-logo-github", link: "https://github.com/lorewar2"}
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/@mininduweerakoon"}
 
@@ -46,8 +45,8 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: Minindu Weerakoon (Weerakoon Mudiyanselage Minindu Banadara Weerakoon)
-  hero__description: I am currently a graduate student at Auburn University (Expected graduation 2026 spring). 
+  hero__title: Minindu Weerakoon
+  hero__description: Full name|Weerakoon Mudiyanselage Minindu Bandara Weerakoon|, I am currently a graduate student at Auburn University (Expected graduation 2026 spring). 
   hero__description_points:
     - PhD in Computer Science at Auburn university 2022 ~ 2026
     - Data Engineering Certification at Auburn University 2025
@@ -66,7 +65,7 @@ about:
   main_content_desc:
     - Expert in Data Science and Algorithms.
     - Coding Capabilities - Rust, R, Python, and C++
-    - Research in Bioinformatics
+    - Bioinformatics Researcher
   
 
 

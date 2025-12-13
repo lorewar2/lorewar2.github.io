@@ -14,7 +14,7 @@ carousels:
       desc: hand recognition by machine learning
     - image: '../images/water.png'
       desc: water bottle rocket simulation
-order: -60
+order: 9
 ---
 
 Some projects
