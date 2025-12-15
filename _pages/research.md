@@ -14,23 +14,23 @@ permalink: /research/
 
 ### Conference Presentations 
 
-2022 Design Automation Conference: Oral presentation: CarM
+- 2022 Design Automation Conference: Oral presentation: CarM
 
 ### Poster Presentations
 
-2025 Auburn Research Symposium: Poster presentation: Topoqual
-2025 Auburn Graduate Engineering Research Showcase: Poster presentation: LCSKPOA
+- 2025 Auburn Research Symposium: Poster presentation: Topoqual
+- 2025 Auburn Graduate Engineering Research Showcase: Poster presentation: LCSKPOA
 
 ## Peer review
 
-PeerJ: A novel and efficient feature extraction algorithm using kmer-derived mutation signal
-BMC Bioinformatics: SMILES alignment: a dynamic programming approach for the alignment of metabolites and other small organic molecules
+- PeerJ: A novel and efficient feature extraction algorithm using kmer-derived mutation signal
+- BMC Bioinformatics: SMILES alignment: a dynamic programming approach for the alignment of metabolites and other small organic molecules
 
 
 ## Library Contribution
 
-Partial Order Alignment Code in Rust-bio (https://github.com/rust-bio/rust-bio/blob/master/src/alignment/poa.rs)
-Memory Sanitization of CFDWARP (https://github.com/bernardparent/CFDWARP)
+- Partial Order Alignment Code in Rust-bio (https://github.com/rust-bio/rust-bio/blob/master/src/alignment/poa.rs)
+- Memory Sanitization of CFDWARP (https://github.com/bernardparent/CFDWARP)
 
 ### Patents
 
