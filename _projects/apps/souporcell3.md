@@ -1,5 +1,5 @@
 ---
-title: souporcell3
+title: Souporcell3
 subtitle:  robust demultiplexing for high-donor single-cell RNA-seq datasets
 contributors: Minindu Weerakoon
 date: 2026-05-30

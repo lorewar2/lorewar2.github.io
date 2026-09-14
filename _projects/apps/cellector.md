@@ -1,5 +1,5 @@
 ---
-title: cellector
+title: Cellector
 subtitle:  A tool to detect foreign genotype cells in scRNAseq data with applications in leukemia and microchimerism
 contributors: Minindu Weerakoon
 date: 2026-08-30

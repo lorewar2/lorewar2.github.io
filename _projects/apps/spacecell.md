@@ -1,5 +1,5 @@
 ---
-title: space_cell
+title: Spacecell
 subtitle:  Clustering spatial scRNA-seq data
 contributors: Minindu Weerakoon
 date: 2026-09-30
