@@ -31,7 +31,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Minindu Weerakoon
-  author__bio: :D
+  author__bio: _
   author__avatar: '/images/profile.jpg'
 
 social:
@@ -46,7 +46,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Minindu Weerakoon
-  hero__description: I am currently a PhD Candidate (ABD) at Auburn University (Expected graduation 2026 spring). 
+  hero__description: I am currently a Postdoctoral associate at TAMUS (Texas A&M University System)
   hero__description_points:
     - PhD in Computer Science at Auburn university 2022 ~ 2026
     - Data Engineering Certification at Auburn University 2025
@@ -55,7 +55,7 @@ hero:
     - BSc in Computer science at PNU 2016 ~ 2020
     - KGSP scholarship recepient
     
-  hero__image: '/images/profile.jpg'
+  hero__image: '/images/headshot.jpg'
 
 
 #-------------------------------
@@ -67,10 +67,6 @@ about:
     - Coding Capabilities - Rust, R, Python, and C++
     - Bioinformatics Researcher
   
-
-
-
-
 #-------------------------------
 # Newsletter
 mailchimp: #disable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.

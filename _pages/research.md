@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 ---
 ### Publications
-- Souporcell3: Robust Demultiplexing for High-Donor Single-Cell RNA-seq Datasets Minindu Weerakoon, Hai Vu, Reza Behboudi, Haynes Heaton (Bioinformatics 2026)
+- SpaceCell: Clustering spatial scRNA-seq data,  M Weerakoon, H Heaton (Under review, Plos Computational Biology),
+- Cellector: A tool to detect foreign genotype cells in scRNAseq data with applications in leukemia and microchimerism, R Behboudi, M Weerakoon, H Heaton  (Under review, Nature Communications)
+- Souporcell3: Robust Demultiplexing for High-Donor Single-Cell RNA-seq Datasets, M Weerakoon, H Vu, R Behboudi, H Heaton (Bioinformatics 2026)
 - LCSKPOA: Enabling banded semi-global partial order alignments via efficient and accurate backbone generation through extended lcsk++, M Weerakoon, CT Saunders, H Heaton (BMC Bioinformatics 2025)
 - TopoQual polishes circular consensus sequencing data and accurately predicts quality scores, M Weerakoon, S Lee, E Mitchell, H Heaton (BMC Bioinformatics 2025)
 - Impact of AI on publication rates. Weerakoon M, Amarathunga B, Weerasuriya P, Sivasankar P.  (arXiv 2026)
@@ -23,6 +25,8 @@ permalink: /research/
 
 ## Peer review
 
+- Scientific Data: An Imbalanced Dataset with Multiple Feature Representations for Studying Quality Control of Next-Generation Sequencing
+- BMC Genomics: Building computational benchmarks: an Omnibenchmark reimplementation of a single-cell preprocessing pipeline evaluation
 - PeerJ: A novel and efficient feature extraction algorithm using kmer-derived mutation signal
 - BMC Bioinformatics: SMILES alignment: a dynamic programming approach for the alignment of metabolites and other small organic molecules
 
